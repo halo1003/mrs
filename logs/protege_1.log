@@ -1,0 +1,175 @@
+2017.12.14 17:51:16.349 ICT INFO: *** SYSTEM START ***
+2017.12.14 17:51:17.557 ICT INFO: Loading triples for: file:/Users/QQ//Documents//NetBeansProjects//mrs//database//user_song.owl -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:18.652 ICT INFO:     Loaded 10000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:19.072 ICT INFO:     Loaded 20000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:19.397 ICT INFO:     Completed triple loading after 1822 ms -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:19.400 ICT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:19.402 ICT INFO: 1 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:19.403 ICT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:19.404 ICT INFO: 1 ms
+ -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:19.405 ICT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:19.405 ICT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:19.405 ICT INFO: Postprocess: Instances with multiple types (6 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:19.419 ICT INFO: 13 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:19.420 ICT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:19.421 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:19.425 ICT INFO: Postprocess: Process orphan classes (2 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:19.428 ICT INFO: 3 ms
+ -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:19.428 ICT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:19.429 ICT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:19.429 ICT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:19.430 ICT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:19.431 ICT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:19.440 ICT INFO: 8 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:19.445 ICT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:19.445 ICT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:19.452 ICT INFO: Updating underlying frames model in 2 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2017.12.14 17:51:19.651 ICT INFO: Loading triples for: file:/Users/QQ//Documents//NetBeansProjects//mrs//database//artist_song.owl -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:20.145 ICT INFO:     Loaded 10000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:20.542 ICT INFO:     Completed triple loading after 887 ms -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:20.542 ICT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:20.544 ICT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:20.545 ICT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:20.555 ICT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:20.556 ICT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:20.558 ICT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:20.559 ICT INFO: Postprocess: Instances with multiple types (4 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:20.560 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:20.563 ICT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:20.564 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:20.583 ICT INFO: Postprocess: Process orphan classes (2 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:20.584 ICT INFO: 0 ms
+ -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:20.584 ICT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:20.585 ICT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:20.585 ICT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:20.585 ICT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:20.586 ICT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:20.587 ICT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:20.587 ICT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:20.587 ICT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:20.588 ICT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2017.12.14 17:51:20.731 ICT INFO: Loading triples for: file:/Users/QQ//Documents//NetBeansProjects//mrs//database//tag_song.owl -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:21.126 ICT INFO:     Completed triple loading after 320 ms -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:21.128 ICT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:21.128 ICT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:21.132 ICT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:21.133 ICT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:21.134 ICT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:21.135 ICT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:21.135 ICT INFO: Postprocess: Instances with multiple types (3 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:21.135 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:21.136 ICT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:21.136 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:21.137 ICT INFO: Postprocess: Process orphan classes (2 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:21.137 ICT INFO: 0 ms
+ -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:21.138 ICT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:21.138 ICT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:21.138 ICT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:21.139 ICT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:21.140 ICT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:21.140 ICT INFO: 0 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:21.141 ICT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:21.141 ICT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:21.141 ICT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2017.12.14 17:51:21.247 ICT INFO: Loading triples for: file:/Users/QQ//Documents//NetBeansProjects//mrs//database//evaluation.owl -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:21.835 ICT INFO:     Loaded 10000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:21.955 ICT INFO:     Completed triple loading after 707 ms -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:21.956 ICT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:21.956 ICT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:21.957 ICT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:21.958 ICT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:21.960 ICT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:21.961 ICT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:21.963 ICT INFO: Postprocess: Instances with multiple types (1 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:21.964 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:21.966 ICT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:21.967 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:21.967 ICT INFO: Postprocess: Process orphan classes (1 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:21.968 ICT INFO: 0 ms
+ -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:21.968 ICT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:21.968 ICT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:21.970 ICT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:21.971 ICT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:21.971 ICT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:21.972 ICT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:21.973 ICT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:21.975 ICT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:21.975 ICT INFO: Updating underlying frames model in 0 ms -- ProtegeOWLParser.doFinalPostProcessing()
+2017.12.14 17:51:22.130 ICT INFO: Loading triples for: file:/Users/QQ//Documents//NetBeansProjects//mrs//database//history.owl -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:22.694 ICT INFO:     Loaded 10000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:23.061 ICT INFO:     Loaded 20000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:23.501 ICT INFO:     Loaded 30000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:23.778 ICT INFO:     Loaded 40000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:24.727 ICT INFO:     Loaded 50000 triples 0 -- ProtegeOWLParser$ProtegeOWLStatementHandler.printTriplesLoadLogMessage()
+2017.12.14 17:51:24.834 ICT INFO:     Completed triple loading after 2704 ms -- ProtegeOWLParser.loadTriples()
+2017.12.14 17:51:24.834 ICT INFO: Postprocess: Process entities with incorrect Java type (0 entities) ...  -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:24.835 ICT INFO: 0 ms
+ -- TriplePostProcessor.processFramesWithWrongJavaType()
+2017.12.14 17:51:24.835 ICT INFO: Postprocess: Process metaclasses (3 metaclasses) ...  -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:24.835 ICT INFO: 0 ms
+ -- TriplePostProcessor.processMetaclasses()
+2017.12.14 17:51:24.835 ICT INFO: Postprocess: Process subclasses of rdf:List (1 classes) ...  -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:24.836 ICT INFO: 0 ms
+ -- TriplePostProcessor.processSubclassesOfRdfList()
+2017.12.14 17:51:24.836 ICT INFO: Postprocess: Instances with multiple types (3 instances) ...  -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:24.846 ICT INFO: 10 ms
+ -- TriplePostProcessor.processInstancesWithMultipleTypes()
+2017.12.14 17:51:24.847 ICT INFO: Postprocess: Add inferred superclasses ...  -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:24.847 ICT INFO: 0 ms
+ -- TriplePostProcessor.processInferredSuperclasses()
+2017.12.14 17:51:24.847 ICT INFO: Postprocess: Process orphan classes (2 classes) ...  -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:24.848 ICT INFO: 1 ms
+ -- TriplePostProcessor.processOrphanClses()
+2017.12.14 17:51:24.848 ICT INFO: Postprocess: Generalized Concept Inclusion (0 axioms) ...  -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:24.848 ICT INFO: 0 ms
+ -- TriplePostProcessor.processGeneralizedConceptInclusions()
+2017.12.14 17:51:24.850 ICT INFO: Postprocess: Abstract classes...  -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:24.850 ICT INFO: 0 ms
+ -- TriplePostProcessor.processAbstractClasses()
+2017.12.14 17:51:24.851 ICT INFO: Postprocess: Domain and range of properties...  -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:24.852 ICT INFO: 1 ms
+ -- TriplePostProcessor.processDomainAndRange()
+2017.12.14 17:51:24.852 ICT INFO: Postprocess: Possibly typed entities (0 resources) ...  -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:24.853 ICT INFO: 0 ms
+ -- TriplePostProcessor.processPossiblyTypedResources()
+2017.12.14 17:51:24.855 ICT INFO: Updating underlying frames model in 1 ms -- ProtegeOWLParser.doFinalPostProcessing()
